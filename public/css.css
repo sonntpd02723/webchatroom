@@ -1,0 +1,14 @@
+#login{
+    background-color: aqua;
+    height: 300px;
+    border: 2px;
+    width: 300px;
+    margin: auto;
+}
+#Fromchat{
+    border: 2px;
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
